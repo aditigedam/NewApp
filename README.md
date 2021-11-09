@@ -1,16 +1,13 @@
-# new_app
 
-A new Flutter project.
+# To-Do Application
 
-## Getting Started
+ A Three-Screen android and ios application featiching data fron news
+ data from the Rest Api's and displaying then on the screen.
+  
 
-This project is a starting point for a Flutter application.
+The application will look like this:
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Screenshots
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![news](https://user-images.githubusercontent.com/69805547/140974464-190ffb2e-d4d8-42f0-8b46-f2d765c3b44a.gif)
