@@ -1,8 +1,7 @@
 
 # NewApp
 
- A Three-Screen android and ios application featiching data fron news
- data from the Rest Api's and displaying then on the screen.
+A Three-Screen android and iOS application fetching data from news data from the Rest Api's and displaying then on the screen.
   
 
 The application will look like this:
